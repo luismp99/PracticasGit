@@ -1,3 +1,4 @@
 # PracticasGit
-Nombre: Luis Eduardo Muñoz Peña
+Nombre: Luis Eduardo Muñoz Peña 
+
 Repositorio para subir las practicas individuales
